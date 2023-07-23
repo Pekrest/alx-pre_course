@@ -1,2 +1,1 @@
-git fetch origin
-git checkout origin/master -- README.md 
+git pull origin 
